@@ -37,7 +37,7 @@ apt install jq curl -y
 #setup domain
 sub=$(date +%Y%m%d-%H%M%S)
 DOMAIN=dude.my.id
-NS_DOMAIN=tukovpn-${sub}.xray.dude.my.id
+NS_DOMAIN=githubvpn-${sub}.xray.dude.my.id
 SUB_DOMAIN=${sub}.xray.dude.my.id
 CF_ID=sc.dude.my.id@gmail.com
 CF_KEY=e4e896fae1987132b12386f9b399d5d333a64
